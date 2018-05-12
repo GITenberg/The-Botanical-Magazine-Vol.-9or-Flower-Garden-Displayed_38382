@@ -1,0 +1,32 @@
+_repo: The-Botanical-Magazine-Vol.-9or-Flower-Garden-Displayed_38382
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curtis, William
+    alias: Curtis, W. (William)
+    birthdate: 1746
+    deathdate: 1799
+    gutenberg_agent_id: '7233'
+    url: http://www.gutenberg.org/2009/agents/7233
+    wikipedia: http://en.wikipedia.org/wiki/William_Curtis
+description: ''
+gutenberg_bookshelf: The Botanical Magazine
+gutenberg_issued: '2011-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38382'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plants, Ornamental -- Periodicals'
+- !lcsh 'Plants -- Periodicals'
+- !lcsh 'Botanical illustration -- Periodicals'
+- !lcc 'QK'
+- !lcsh 'Plants, Cultivated -- Periodicals'
+title: "The Botanical Magazine, Vol. 09\r\nOr, Flower-Garden Displayed"
+url: http://www.gutenberg.org/ebooks/38382
